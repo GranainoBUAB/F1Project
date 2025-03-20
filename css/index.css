@@ -1,0 +1,44 @@
+html{
+    background-color: black;
+    color: white;
+    
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.header{
+    background-color: black;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+
+    display: flex;
+    justify-content: right;
+    margin-top: 10px;
+}
+
+.tableChampionship {
+    width: auto !important;
+    border: 1px solid white;
+    /* border-collapse: collapse; */
+    margin-top: 10px;
+    font-size: 11px;
+}
+
+.tableAll {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
